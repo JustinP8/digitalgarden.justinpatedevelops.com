@@ -18,7 +18,7 @@ params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Justin Pate's Digital Garden"
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Digital, Garden, Vanity]
   author: Justin Pate
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -42,37 +42,41 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-    noun_human_mind: /static/images/noun-human-mind-4125615.png
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+    # noun_human_mind: /static/images/noun-human-mind-4125615.png
 
   label:
     text: "Justin Pate's Digital Garden"
     # icon: /static/images/noun-human-mind-4125615.png
-    iconHeight: 35
+    # iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: ExampleSite
+  #   subtitle: "This is subtitle"
+  #   imageUrl: "<img location>"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my Digital Garden
+        Title: "Justin Pate's Digital Garden"
+        Content: >
+            Welcome to my [digital garden](/digital-garden/my-definition-of-a-digital-garden/). 
+            If you'd like to get started poking around my content, [Categories](/categories/) and 
+            [Tags](/tags/) are a great place to start. Feel free to message me on [Twitter](https://twitter.com/JustinMP8) if you'd like 
+            to discuss anything you see here!
 
   socialIcons:
     - name: twitter
