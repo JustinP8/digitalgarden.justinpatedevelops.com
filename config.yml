@@ -107,6 +107,12 @@ params:
   #   Text: "Suggest Changes" # edit text
   #   appendFilePath: true # to append file path to Edit link
 
+  outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -141,6 +147,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    # - identifier: search
+    #   name: Search
+    #   url: /search/
+    #   weight: 40
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
