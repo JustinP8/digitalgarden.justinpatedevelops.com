@@ -17,15 +17,16 @@ minify:
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Justin Pate's Digital Garden"
-  description: "ExampleSite description"
+  description: "A place to share my interests, hobbies, and learnings."
   keywords: [Digital, Garden, Vanity]
   author: Justin Pate
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  ShowAllPagesInArchive: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
