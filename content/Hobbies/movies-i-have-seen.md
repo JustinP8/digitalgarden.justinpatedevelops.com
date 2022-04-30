@@ -59,7 +59,7 @@ What follows is a list of All the movies I've seen (that I can remember), in no 
 * *The Hunger Games: Mocking Jay Part 2*
 * *Divergent*
 * *Insurgent*
-* *Allegient*
+* *Allegiant*
 * *Toy Story*
 * *Toy Story 2*
 * *Toy Story 3*
