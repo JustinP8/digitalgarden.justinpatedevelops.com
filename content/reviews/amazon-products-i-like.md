@@ -1,7 +1,7 @@
 ---
 title: "Amazon Products I Like"
 date: 2022-04-29T21:30:19-05:00
-tags: ["growing"]
+tags: ["growing", "lists"]
 categories: ["reviews"]
 #series: []
 showtoc: true

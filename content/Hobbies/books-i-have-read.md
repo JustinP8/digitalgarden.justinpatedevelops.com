@@ -1,7 +1,7 @@
 ---
 title: "Books I Have Read"
 date: 2022-04-28T13:42:11-05:00
-tags: ["growing", "books"]
+tags: ["growing", "books", "lists"]
 categories: ["hobbies"]
 #series: []
 ---
